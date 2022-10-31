@@ -964,7 +964,7 @@ let printMsg = (evenFunc, num) => {
 }
 // Pass in isEven as the callback function
 printMsg(isEven, 4); 
-// => The number 4 is an even number: True.
+// => The number 4 is an even number: true.
 ```
 
 ### 数组方法 .reduce()
